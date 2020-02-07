@@ -1,2 +1,2 @@
 # Machine-Learning-with-Python
-Contains different models of ML.
+Contains models based on different Machine Learning Algorithms.
